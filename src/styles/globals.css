@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+}
+.header{
+    margin-bottom: 100px;
+}
+.home{
+    margin-bottom: 50px;
+}
+.about{
+    margin-bottom: 50px;
+}
+.services{
+    margin-bottom: 80px;
+}
+.projects{
+    margin-bottom: 50px;
+}
+
+.testimonials{
+    margin-bottom: 100px;
+}
+
+.contact{
+    margin-bottom: 100px;
+}
+
+
